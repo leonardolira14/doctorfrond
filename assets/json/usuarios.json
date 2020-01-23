@@ -1,0 +1,23 @@
+{
+    "administrativo":[
+        {
+            "ID": "F",
+            "Label": "Financiero"
+        },
+        {
+            "ID": "IN",
+            "Label": "Inventario"
+        },
+        {
+            "ID": "Re",
+            "Label": "Recepcionista"
+        },
+        {
+            "ID": "AN",
+            "Label": "Analisis"
+        },
+        {
+            "ID": "Farm",
+            "Label": "Farmacia"
+        }]
+}
