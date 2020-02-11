@@ -19,5 +19,376 @@
         {
             "ID": "Farm",
             "Label": "Farmacia"
-        }]
+        }],
+        "dias":[
+            {
+                "hora": "6:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "6:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "7:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "7:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            { "hora": "8:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "", 
+                "sabado": "", 
+                "domingo": ""
+            },
+            {
+                "hora": "8:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "9:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "9:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "10:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "10:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            { "hora": "11:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "", 
+                "sabado": "", 
+                "domingo": ""
+            },
+            { "hora": "11:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "", 
+                "sabado": "", 
+                "domingo": ""
+            },
+            {
+                "hora": "12:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "12:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "13:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "13:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "14:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "15:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "15:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "16:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "16:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "17:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "17:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "18:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+
+            {
+                "hora": "18:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "19:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "19:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "20:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "20:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "21:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "21:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "22:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "22:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "23:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "23:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "00:00",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            },
+            {
+                "hora": "00:30",
+                "lunes": "",
+                "martes": "",
+                "miercoles": "",
+                "jueves": "",
+                "viernes": "",
+                "sabado": "",
+                "domingo": ""
+            }
+            
+        ]
 }
